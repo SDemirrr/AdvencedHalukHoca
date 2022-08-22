@@ -15,7 +15,7 @@ public class Q07 {
         int [][] ınput = {{1,25,-3},{125,55},{-61,-17,65}};
 
         maxDegeriBulan(ınput);
-        System.out.println("girilen array in max elemanı = "+  maxDegeriBul(ınput));
+        System.out.println("girilen array in max e lemanı = "+  maxDegeriBul(ınput));
 
     }
 
